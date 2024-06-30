@@ -1,0 +1,36 @@
+* Moving the snake:
+- Head: is moved to a new block
+- Block before the head: get head prev position
+- Others: is moved to pos that block before it was
+- Last block: is deleted
+
+our snake: [pos1, pos2, pos3] -> [pos_1*direction, pos1, pos2]
+
+-> need player input
+-> need a timer to show the speed of snake aka how short/long til the snake move again
+
+* Connect the snake with the fruit - make snake munch
+- Check if fruit and head of snake are at the same spot
+- If yes -> draw new fruit + add a block to snake
+
+* Game over:
+- snake hits itself
+- snake hits a wall
+
+* draw the fruit pretty:
+- load the photo of fruit
+- add into screen with the designated rectangle
+
+* make snake pretty:
+- load the photos for parts of snake
+- check where is the head heading and use appropriate graphics
+-> use vector relation to check where is the prev block pos compared to this block.
+
+* drawing grass:
+- draw it like a chess board
+
+* displaying score:
+- create text
++ font object
++ create text with font
++ add into display surface
