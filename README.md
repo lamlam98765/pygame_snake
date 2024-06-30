@@ -33,6 +33,6 @@ The terminal will ask you your name, the level you want to play, and if you're r
 
 ## My source:
 
-I want to send my gratitude to [this](https://www.youtube.com/watch?v=QFvqStqPCRU) pygame tutorials on YouTube. It shows me a clear thinking process and provides elegent solution.
+I want to send my gratitude to [this](https://www.youtube.com/watch?v=QFvqStqPCRU) pygame tutorials on YouTube. It shows me a clear thinking process and provides elegant solution.
 
 Free pixel food: https://ghostpixxells.itch.io/pixelfood
